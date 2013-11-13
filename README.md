@@ -6,10 +6,10 @@ A simple UITableViewController for custom drag to refresh actions and views
 -------------
 To Implement:
 
-1) Subclass CATableViewController
-2) Create your own header view and add it to the table
-3) Implement the 4 methods in the header of CATableViewController
-4) Update your header view accordingly!
+-1 Subclass CATableViewController
+-2 Create your own header view and add it to the table
+-3 Implement the 4 methods in the header of CATableViewController
+-4 Update your header view accordingly!
 
 Notes on methods:
 
